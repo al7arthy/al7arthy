@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @al7arthy
 - 👀 I’m interested in Websites and dashboards, Python projects, Discord bots, MTA:SA Scripts, 3D Modeling, Node.js projects
 - 🌱 I’m currently learning nothing
-- 📫 How to reach me: IG: ld8ls, TikTok: id8is
+- 📫 How to reach me: Discord: @al7arthy

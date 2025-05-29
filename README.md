@@ -22,6 +22,5 @@
 ## **Let's Connect!**  
 📫 Reach me via:  
 📧 **Email:** alharthy.ahmed@outlook.sa  
-📞 **Phone:** +966 55 133 2704  
 🌍 **Website:** [al7arthy.me](https://al7arthy.me)  
 

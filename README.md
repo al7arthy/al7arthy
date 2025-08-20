@@ -3,7 +3,7 @@
 ## **About Me**  
 🔹 Passionate about software development, automation, and game design.  
 🔹 Experienced in **React, Node.js, Python, Lua**, and databases such as **MySQL (phpMyAdmin), MongoDB, and SQLite**.  
-🔹 Currently studying **Management Information Systems (MIS) at Taif University** with a GPA of **3.56/4**.  
+🔹 Currently studying **Management Information Systems (MIS) at Taif University** with a GPA of **3.68/4**.  
 🔹 Always exploring new technologies to expand my skill set.  
 
 ## **What I Do**  

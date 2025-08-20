@@ -22,5 +22,5 @@
 ## **Let's Connect!**  
 📫 Reach me via:  
 📧 **Email:** alharthy.ahmed@outlook.sa  
-🌍 **Website:** [al7arthy.me](https://al7arthy.dev)  
+🌍 **Website:** [al7arthy.dev](https://al7arthy.dev)  
 
